@@ -1,0 +1,17 @@
+# GitHub Pages branch deployment uses Jekyll to copy these already-written pages.
+# These exclusions protect the source archive and internal review materials.
+# DO NOT add .nojekyll: it bypasses these exclusions.
+title: Atelier MAONI
+markdown: kramdown
+exclude:
+  - Atelier_Maoni_pics
+  - _studio
+  - tests
+  - README.md
+  - PHOTO-SELECTION.md
+  - MISSING-INFORMATION.md
+  - TEST-REPORT.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore

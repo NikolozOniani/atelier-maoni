@@ -1,0 +1,825 @@
+[
+  {
+    "id": 1,
+    "path": "Atelier_Maoni_pics/1/474542183_122190452558118953_7473687929928104381_n.jpg",
+    "sha256": "586b787235f182e4102a5e2f1df969e2d8e4fe1cda894aa4e3dff7c54d6cfbf1",
+    "format": "JPEG",
+    "width": 843,
+    "height": 1122,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Emerald floor-length dress on a woman on a staircase; dramatic train, distant garment.",
+    "category": "evening",
+    "group": "emerald",
+    "quality": "Medium clarity; good full silhouette, large architectural background.",
+    "usage": "selected",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "emerald-01-480.webp",
+        "width": 480,
+        "height": 639
+      },
+      {
+        "file": "emerald-01-843.webp",
+        "width": 843,
+        "height": 1122
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "path": "Atelier_Maoni_pics/1/643723916_122241750314118953_2019994158167993743_n.jpg",
+    "sha256": "55c1fb74e425351a41a60a3d8e1c9c9a3864e8ec1d0d2c5c4de770cfdae791cf",
+    "format": "JPEG",
+    "width": 1200,
+    "height": 1600,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Navy short jacket and skirt with a large white collar on a woman.",
+    "category": "everyday",
+    "group": "navy-coordinates",
+    "quality": "Clear outfit; interior mirror and edges distract slightly.",
+    "usage": "selected",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "navy-coordinates-02-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "file": "navy-coordinates-02-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "file": "navy-coordinates-02-1200.webp",
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "path": "Atelier_Maoni_pics/1/643834434_122241750272118953_4065264776560811441_n.jpg",
+    "sha256": "e4e97cf1f0461ff482ec5cf431eea3814d10acc5d238c305bc96f753e5bf2ab9",
+    "format": "JPEG",
+    "width": 922,
+    "height": 1280,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Pale lime floor-length dress, open back with narrow crossing straps, worn outdoors.",
+    "category": "evening",
+    "group": "lime",
+    "quality": "Good silhouette and texture; rear view only, passing person at edge.",
+    "usage": "selected",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "lime-03-480.webp",
+        "width": 480,
+        "height": 666
+      },
+      {
+        "file": "lime-03-922.webp",
+        "width": 922,
+        "height": 1280
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "path": "Atelier_Maoni_pics/1/643842093_122241749186118953_5071906094932573816_n.jpg",
+    "sha256": "9f1b9e70071933649cea9491f399ca03182309c89d0dc0f9c0a2505ccddf79f3",
+    "format": "JPEG",
+    "width": 1345,
+    "height": 2048,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Front view of a pale fitted dress with reflective silver embellishments, worn outdoors.",
+    "category": "evening",
+    "group": "silver",
+    "quality": "Strong detail, soft background, good clarity; lower hem outside frame.",
+    "usage": "hero",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "silver-04-480.webp",
+        "width": 480,
+        "height": 731
+      },
+      {
+        "file": "silver-04-960.webp",
+        "width": 960,
+        "height": 1462
+      },
+      {
+        "file": "silver-04-1345.webp",
+        "width": 1345,
+        "height": 2048
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "path": "Atelier_Maoni_pics/1/643854295_122241749222118953_5655012456616989663_n.jpg",
+    "sha256": "866cb3b0846bde861ccdf506899f875170b23bc0e5a1057c1944b739c9d5a75c",
+    "format": "JPEG",
+    "width": 1333,
+    "height": 2048,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Rear three-quarter view of the same silver-embellished fitted dress.",
+    "category": "evening",
+    "group": "silver",
+    "quality": "Strong matching detail and alternate construction view.",
+    "usage": "supporting",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "silver-05-480.webp",
+        "width": 480,
+        "height": 737
+      },
+      {
+        "file": "silver-05-960.webp",
+        "width": 960,
+        "height": 1475
+      },
+      {
+        "file": "silver-05-1333.webp",
+        "width": 1333,
+        "height": 2048
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "path": "Atelier_Maoni_pics/1/643865833_122241749768118953_2867669246487043566_n.jpg",
+    "sha256": "00865d8a62c294b5392fbf602abb4cc40e3c77d6b637fa5fccd0ad74f65ec671",
+    "format": "JPEG",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Burgundy fitted jacket and trousers on a woman on stairs.",
+    "category": "everyday",
+    "group": "burgundy-suit",
+    "quality": "Clear full outfit; warm indoor background.",
+    "usage": "selected",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "burgundy-suit-06-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "file": "burgundy-suit-06-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "path": "Atelier_Maoni_pics/1/644109900_122241953198118953_588684009109818385_n.jpg",
+    "sha256": "0f77ad820b3d390b254cc80a720a0b755306a1348a019d28754fc8724308e4e4",
+    "format": "JPEG",
+    "width": 1080,
+    "height": 1440,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Deep blue long dress on a seated woman by a window.",
+    "category": "evening",
+    "group": "midnight",
+    "quality": "Moody light and clear upper garment; seated pose hides full silhouette.",
+    "usage": "selected",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "midnight-07-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "file": "midnight-07-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "file": "midnight-07-1080.webp",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "path": "Atelier_Maoni_pics/1/699978317_122249209598118953_6381586306715463882_n.jpg",
+    "sha256": "346ab2de643bb60388d8ddbab7c2ba761644adfd08f53bf8a948d8e29556044b",
+    "format": "JPEG",
+    "width": 1080,
+    "height": 2340,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Ivory halter-neck long dress with gathered waist on a mannequin; black letterbox bars.",
+    "category": "evening",
+    "group": "ivory",
+    "quality": "Clear entire garment on neutral wall; remove only black video bars.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "crop": [
+      0,
+      246,
+      1080,
+      2094
+    ],
+    "variants": [
+      {
+        "file": "ivory-08-480.webp",
+        "width": 480,
+        "height": 821
+      },
+      {
+        "file": "ivory-08-960.webp",
+        "width": 960,
+        "height": 1643
+      },
+      {
+        "file": "ivory-08-1080.webp",
+        "width": 1080,
+        "height": 1848
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "path": "Atelier_Maoni_pics/1/724824756_122252514788118953_7858270468321242990_n.jpg",
+    "sha256": "26c606afe1e9510a23fc687ce4ad3dda57b4b9442adcba741fe7d8fe220fc442",
+    "format": "JPEG",
+    "width": 1133,
+    "height": 850,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Two women seated indoors wearing red and black long dresses.",
+    "category": "evening",
+    "group": "red-black-pair",
+    "quality": "Low light and pose obscure lower garments; no secure link to other projects.",
+    "usage": "excluded",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent."
+  },
+  {
+    "id": 10,
+    "path": "Atelier_Maoni_pics/1/726432651_122253065972118953_8427111553635739310_n.jpg",
+    "sha256": "4d2f5944341254e60507f93727933c8c5fa9bbcb8784457e7047ebea952f6e73",
+    "format": "JPEG",
+    "width": 678,
+    "height": 1480,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Pale blue embellished strapless long dress with gathered front and slit on a mannequin.",
+    "category": "evening",
+    "group": "sky-blue",
+    "quality": "Strong craft detail, full silhouette, neutral background; narrow original.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "sky-blue-10-480.webp",
+        "width": 480,
+        "height": 1048
+      },
+      {
+        "file": "sky-blue-10-678.webp",
+        "width": 678,
+        "height": 1480
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "path": "Atelier_Maoni_pics/1/763722845_122257025228118953_8402594565644640442_n.jpg",
+    "sha256": "d2ee1b6dcb4d66a358a79dfcf56956d8e52d3f41f0608893d5d06d66ba1c57c2",
+    "format": "JPEG",
+    "width": 2048,
+    "height": 1535,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Woman in a pale halter-neck dress at a balcony overlooking a city at night.",
+    "category": "evening",
+    "group": "ivory-possible",
+    "quality": "Possibly same garment as 8; low light, back view. Grouping uncertain.",
+    "usage": "excluded",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent."
+  },
+  {
+    "id": 12,
+    "path": "Atelier_Maoni_pics/1/780672580_122258778230118953_1855869114244431749_n.jpg",
+    "sha256": "8ce848a978668d85851913e8fef8e94d1254a0b9998e6e86e868ae6b8afa378b",
+    "format": "JPEG",
+    "width": 724,
+    "height": 1451,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Yellow off-shoulder fitted long dress with flared hem, worn against a white brick wall.",
+    "category": "evening",
+    "group": "yellow",
+    "quality": "Strong color and full silhouette; narrow original, sharp garment.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "yellow-12-480.webp",
+        "width": 480,
+        "height": 962
+      },
+      {
+        "file": "yellow-12-724.webp",
+        "width": 724,
+        "height": 1451
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "path": "Atelier_Maoni_pics/112n.jpg",
+    "sha256": "249da2645716fa88b59d33ce8d2737fa064e058b436fcc3f759f5ae7141f7e9d",
+    "format": "JPEG",
+    "width": 2033,
+    "height": 2048,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Black MAONI ATELIER needle-and-thread logo on a white background.",
+    "category": "identity",
+    "group": "logo",
+    "quality": "Existing supplied identity; retain complete artwork and white background.",
+    "usage": "logo",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "logo-13-96.webp",
+        "width": 96,
+        "height": 97
+      },
+      {
+        "file": "logo-13-240.webp",
+        "width": 240,
+        "height": 242
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "path": "Atelier_Maoni_pics/Wedding/843325689_122265271964118953_2947312418407088948_n.jpg",
+    "sha256": "98d879781ae6ec50074ff0c146f01ddd7a1775f12fa2baecf1882b2c7dd21274",
+    "format": "JPEG",
+    "width": 940,
+    "height": 1251,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Rear view of a white bridal gown with a long train outdoors.",
+    "category": "bridal",
+    "group": "bridal",
+    "quality": "Full train visible; bright outdoor detail, likely same gown as 15.",
+    "usage": "supporting",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "bridal-14-480.webp",
+        "width": 480,
+        "height": 639
+      },
+      {
+        "file": "bridal-14-940.webp",
+        "width": 940,
+        "height": 1251
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "path": "Atelier_Maoni_pics/Wedding/848241223_122265271922118953_4541893300940595410_n.jpg",
+    "sha256": "c87b7ad22c0c9c00fc56b04cad9bc70c8acec648709107cb94ecbbc1bef633b3",
+    "format": "JPEG",
+    "width": 826,
+    "height": 1151,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Front view of white bridal gown with a long train in a large interior.",
+    "category": "bridal",
+    "group": "bridal",
+    "quality": "Strong full silhouette and visible dress detail; likely same wearer and gown as 14.",
+    "usage": "selected",
+    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "variants": [
+      {
+        "file": "bridal-15-480.webp",
+        "width": 480,
+        "height": 669
+      },
+      {
+        "file": "bridal-15-826.webp",
+        "width": 826,
+        "height": 1151
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "path": "Atelier_Maoni_pics/kid stuff/472455966_122187625700118953_6547370825013021403_n.jpg",
+    "sha256": "e31f6ad99e4ed0a4ee963f4c96d83cafc280563fa7b041c010be068c1c4441e3",
+    "format": "JPEG",
+    "width": 1366,
+    "height": 2048,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Young boy in grey waistcoat and trousers holding a silver numeral balloon.",
+    "category": "children",
+    "group": "grey-child",
+    "quality": "Clear portrait but balloon partly covers clothes; identifiable minor.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 17,
+    "path": "Atelier_Maoni_pics/kid stuff/472785691_122187625760118953_6297695046028644494_n.jpg",
+    "sha256": "cf5db1f2f85c8f0656564fb232153b222d0e4d752ecb1352def3addc0d5c5977",
+    "format": "JPEG",
+    "width": 2048,
+    "height": 1535,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Young boy seated in grey waistcoat and trousers beside a numeral balloon.",
+    "category": "children",
+    "group": "grey-child",
+    "quality": "Same child/outfit as 16; stronger outfit view, identifiable minor.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 18,
+    "path": "Atelier_Maoni_pics/kid stuff/474990803_122191217354118953_2202335834619560682_n.jpg",
+    "sha256": "87c76ee24484eacc4e4fe19eac9ee041de4b56b3ef592bee1b75385cd6a7f261",
+    "format": "JPEG",
+    "width": 1080,
+    "height": 1454,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Red long-sleeve short dress with a bow held on a hanger beside the atelier sign.",
+    "category": "children",
+    "group": "red-bow",
+    "quality": "Distinct from 22 (sleeves and plain finish); cluttered background and hand.",
+    "usage": "excluded",
+    "publication_review": "Confirm owner image rights before release."
+  },
+  {
+    "id": 19,
+    "path": "Atelier_Maoni_pics/kid stuff/475038081_122191220918118953_7337457672994971851_n.jpg",
+    "sha256": "93fe11713f9641733c75ea81c40cb403efc122e6923b4e7cbeb43d8135077793",
+    "format": "JPEG",
+    "width": 736,
+    "height": 1104,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Young girl wearing a gold-colored patterned dress beside a Christmas tree.",
+    "category": "children",
+    "group": "gold-child",
+    "quality": "Clear garment but busy festive composition; identifiable minor.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 20,
+    "path": "Atelier_Maoni_pics/kid stuff/544901131_122223071186118953_1561669698786561482_n.jpg",
+    "sha256": "f45e510f0b32cd989dd9889081766d93b005e80923f989037a27bf571017488d",
+    "format": "JPEG",
+    "width": 1024,
+    "height": 1536,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Navy children’s dress with a broad cream collar and bow on a hanger.",
+    "category": "children",
+    "group": "navy-child",
+    "quality": "Clean neutral background, entire garment visible; strong safe selection.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "navy-child-20-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "navy-child-20-960.webp",
+        "width": 960,
+        "height": 1440
+      },
+      {
+        "file": "navy-child-20-1024.webp",
+        "width": 1024,
+        "height": 1536
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "path": "Atelier_Maoni_pics/kid stuff/643869795_122241750500118953_2354390235702938009_n.jpg",
+    "sha256": "22fae16a6983e16a0bbebed8c18a6fca3f13210ad99b87a9793a4e7e43659c43",
+    "format": "JPEG",
+    "width": 2048,
+    "height": 1681,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Two children in coordinating grey outfits seated against a pale blue background.",
+    "category": "children",
+    "group": "grey-child",
+    "quality": "Boy’s outfit related to 16/17; second outfit visible; identifiable minors.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 22,
+    "path": "Atelier_Maoni_pics/kid stuff/645819369_122241953114118953_1326889106595274105_n.jpg",
+    "sha256": "c089fcfe8c1fe6422142576ce35efb1e4a7b57cd2c9a4e24d62ee911fae98509",
+    "format": "JPEG",
+    "width": 1532,
+    "height": 2048,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Red sparkly sleeveless children’s dress with prominent shoulder bows on a hanger.",
+    "category": "children",
+    "group": "red-child",
+    "quality": "Clear craft and skirt volume; hanger photographed from an angle.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "red-child-22-480.webp",
+        "width": 480,
+        "height": 642
+      },
+      {
+        "file": "red-child-22-960.webp",
+        "width": 960,
+        "height": 1283
+      },
+      {
+        "file": "red-child-22-1440.webp",
+        "width": 1440,
+        "height": 1925
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "path": "Atelier_Maoni_pics/kid stuff/742800270_122255145584118953_715723580364140434_n.jpg",
+    "sha256": "c6e2ec640099d56588c9b15c9e8e359a11d0f4125d7cc3ae078facb96b513e59",
+    "format": "JPEG",
+    "width": 1086,
+    "height": 1448,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "White floral children’s dress with puff sleeves hanging in front of other garments.",
+    "category": "children",
+    "group": "floral-child",
+    "quality": "Full garment clear, some background clutter; use as primary.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "floral-child-23-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "file": "floral-child-23-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "file": "floral-child-23-1086.webp",
+        "width": 1086,
+        "height": 1448
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "path": "Atelier_Maoni_pics/kid stuff/744042385_122255145626118953_916279366781497330_n.jpg",
+    "sha256": "78815849f116c9b73ed9e7a879505b76cc3ff9ec8a84966a40c73280abff1d49",
+    "format": "JPEG",
+    "width": 1085,
+    "height": 1450,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Child wearing a white floral puff-sleeve dress, photographed from the back.",
+    "category": "children",
+    "group": "floral-child",
+    "quality": "Same print and sleeves as 23/25; identifiable child remains a minor even from rear.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 25,
+    "path": "Atelier_Maoni_pics/kid stuff/745545594_122255145746118953_8754294701090570261_n.jpg",
+    "sha256": "c24c078055c5741b89ca56898df61904f9a1a4a3a4ae81a3ca2fb22f4581499a",
+    "format": "JPEG",
+    "width": 1122,
+    "height": 1402,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Close view of a floral puff sleeve and gathered waist on a hanger.",
+    "category": "children",
+    "group": "floral-child",
+    "quality": "Strong craftsmanship detail; same garment/print as 23/24.",
+    "usage": "supporting",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "floral-child-25-480.webp",
+        "width": 480,
+        "height": 600
+      },
+      {
+        "file": "floral-child-25-960.webp",
+        "width": 960,
+        "height": 1200
+      },
+      {
+        "file": "floral-child-25-1122.webp",
+        "width": 1122,
+        "height": 1402
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/473795706_122190033956118953_5251393947057389988_n.jpg",
+    "sha256": "c313baea99e2523b1a570c06825abb12698f8f5c13dce25a626e6474acb1a003",
+    "format": "JPEG",
+    "width": 960,
+    "height": 720,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Children dancing in light blue dresses and blue waistcoat sets.",
+    "category": "children",
+    "group": "group-blue",
+    "quality": "Related event to 28/30/32; many identifiable minors; not separate dress projects.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 27,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/473801961_122190033632118953_3488031416211462554_n.jpg",
+    "sha256": "24ebe1c3af306fef41925e3deaa8194077a11126c148de0a8f5936f792370f8e",
+    "format": "JPEG",
+    "width": 1080,
+    "height": 810,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Group of children in pale pink tops and white bottoms in a decorated room.",
+    "category": "children",
+    "group": "group-pink",
+    "quality": "Related to 29; distant busy event image, many minors.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 28,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/473802256_122190033968118953_8923720449353232957_n.jpg",
+    "sha256": "a44d5889d6078a561f6c7ddb0b1b99cfdc55cf99bde5205c4381ae653e4af8c6",
+    "format": "JPEG",
+    "width": 1080,
+    "height": 810,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Group of children dancing in matching light blue dresses.",
+    "category": "children",
+    "group": "group-blue",
+    "quality": "Near-repetitive same event/outfits as 26/30/32; many minors.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 29,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/473809387_122190034016118953_3200930857684125333_n.jpg",
+    "sha256": "46851fea2b39690029cd68d05cf1e3b3551cedbb98a2031a1fb8a1a8753c1867",
+    "format": "JPEG",
+    "width": 960,
+    "height": 720,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Children in pale pink tops and white bottoms performing in the same room.",
+    "category": "children",
+    "group": "group-pink",
+    "quality": "Near-repetitive companion to 27; many minors, weak garment detail.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 30,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/473814909_122190033950118953_6539733793589068481_n.jpg",
+    "sha256": "b583253f64f5638e150157358eb0da29eaf081c130e6d738c683936d58ada122",
+    "format": "JPEG",
+    "width": 960,
+    "height": 720,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Back view of group of children in matching light blue dresses with bows.",
+    "category": "children",
+    "group": "group-blue",
+    "quality": "Useful reverse view of same group work; many minors, cluttered.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 31,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/473996507_122190199106118953_6631147219903982471_n.jpg",
+    "sha256": "2dfcea36575c6d66a320157e7b3578d2bc22cecd7cd375e0b605078f3f074b3f",
+    "format": "JPEG",
+    "width": 2048,
+    "height": 1365,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Group of children in turquoise dresses and waistcoat sets at a performance.",
+    "category": "children",
+    "group": "group-turquoise",
+    "quality": "Related event setting but distinct color/outfits; many identifiable minors.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 32,
+    "path": "Atelier_Maoni_pics/outfits, massive clients/474067017_122190033992118953_6759208172239282938_n.jpg",
+    "sha256": "f7a40b68b8cd01dce805586b4175270aa84bfafab3576c944ec64b0e7c0ef4cc",
+    "format": "JPEG",
+    "width": 1080,
+    "height": 810,
+    "orientation": "landscape",
+    "opened": true,
+    "description": "Side view of dancing children in matching light blue dresses and waistcoats.",
+    "category": "children",
+    "group": "group-blue",
+    "quality": "Same event/outfits as 26/28/30; repetitive group photo with minors.",
+    "usage": "excluded",
+    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+  },
+  {
+    "id": 33,
+    "path": "Atelier_Maoni_pics/traditional/643833564_122241749858118953_7063722329718942715_n.jpg",
+    "sha256": "d1d2910c8c0f01a60dc6a6d312b3cf3e004c52d3107c35cd904eedfd1f5b5d84",
+    "format": "JPEG",
+    "width": 700,
+    "height": 1498,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Burgundy and taupe traditional-style garment with ornamental trim on a mannequin.",
+    "category": "traditional",
+    "group": "traditional",
+    "quality": "Clear front detailing; narrow photo with existing phone watermark retained.",
+    "usage": "selected",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "traditional-33-480.webp",
+        "width": 480,
+        "height": 1027
+      },
+      {
+        "file": "traditional-33-700.webp",
+        "width": 700,
+        "height": 1498
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "path": "Atelier_Maoni_pics/traditional/643876902_122241749810118953_5936018897397475108_n.jpg",
+    "sha256": "d542523540d0cd3027cdd17481955524be38a55d073666c9a72e1d357a62ea8b",
+    "format": "JPEG",
+    "width": 700,
+    "height": 1498,
+    "orientation": "portrait",
+    "opened": true,
+    "description": "Same burgundy and taupe traditional-style garment with draped upper layer.",
+    "category": "traditional",
+    "group": "traditional",
+    "quality": "Alternate styling view; clear silhouette, existing watermark retained.",
+    "usage": "supporting",
+    "publication_review": "Confirm owner image rights before release.",
+    "variants": [
+      {
+        "file": "traditional-34-480.webp",
+        "width": 480,
+        "height": 1027
+      },
+      {
+        "file": "traditional-34-700.webp",
+        "width": 700,
+        "height": 1498
+      }
+    ]
+  }
+]

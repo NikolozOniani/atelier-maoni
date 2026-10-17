@@ -1,0 +1,350 @@
+[
+  {
+    "id": "silver",
+    "category": "evening",
+    "images": [
+      4,
+      5
+    ],
+    "featured": true,
+    "title": {
+      "en": "Silver reflections",
+      "ka": "ვერცხლისფერი ბზინვარება"
+    },
+    "description": {
+      "en": "A fitted evening dress with reflective embellishments.",
+      "ka": "მომდგარი საღამოს კაბა მბზინავი დეკორით."
+    },
+    "alt": {
+      "en": [
+        "Front view of a pale fitted dress with silver embellishments",
+        "Rear three-quarter view of the silver-embellished dress"
+      ],
+      "ka": [
+        "ღია ფერის მომდგარი კაბის წინა ხედი ვერცხლისფერი დეკორით",
+        "ვერცხლისფერი დეკორით გაფორმებული კაბის უკანა ხედი"
+      ]
+    }
+  },
+  {
+    "id": "yellow",
+    "category": "evening",
+    "images": [
+      12
+    ],
+    "featured": true,
+    "title": {
+      "en": "A brighter silhouette",
+      "ka": "ნათელი სილუეტი"
+    },
+    "description": {
+      "en": "A yellow off-shoulder dress with a flared hem.",
+      "ka": "ყვითელი მხრებგადაწეული კაბა გაშლილი ბოლოთი."
+    },
+    "alt": {
+      "en": [
+        "Full view of a yellow off-shoulder dress with a flared hem"
+      ],
+      "ka": [
+        "ყვითელი მხრებგადაწეული კაბის სრული ხედი გაშლილი ბოლოთი"
+      ]
+    }
+  },
+  {
+    "id": "navy-coordinates",
+    "category": "everyday",
+    "images": [
+      2
+    ],
+    "featured": true,
+    "title": {
+      "en": "Everyday, considered",
+      "ka": "ყოველდღიური ელეგანტურობა"
+    },
+    "description": {
+      "en": "A navy jacket and skirt with a contrasting white collar.",
+      "ka": "მუქი ლურჯი პიჯაკი და ქვედაკაბა კონტრასტული თეთრი საყელოთი."
+    },
+    "alt": {
+      "en": [
+        "Woman wearing a navy jacket and skirt with a large white collar"
+      ],
+      "ka": [
+        "მუქი ლურჯი პიჯაკი და ქვედაკაბა დიდი თეთრი საყელოთი"
+      ]
+    }
+  },
+  {
+    "id": "traditional",
+    "category": "traditional",
+    "images": [
+      33,
+      34
+    ],
+    "featured": true,
+    "title": {
+      "en": "A traditional expression",
+      "ka": "ტრადიციული შთაგონება"
+    },
+    "description": {
+      "en": "A burgundy and taupe garment with ornamental detailing.",
+      "ka": "შინდისფერი და მონაცრისფრო სამოსი ორნამენტული დეტალებით."
+    },
+    "alt": {
+      "en": [
+        "Front view of burgundy and taupe traditional clothing on a mannequin",
+        "Alternate view of the traditional garment with its draped upper layer"
+      ],
+      "ka": [
+        "შინდისფერი და მონაცრისფრო ტრადიციული სამოსის წინა ხედი მანეკენზე",
+        "ტრადიციული სამოსი განსხვავებულად გადაფენილი ზედა ნაწილით"
+      ]
+    }
+  },
+  {
+    "id": "bridal",
+    "category": "bridal",
+    "images": [
+      15,
+      14
+    ],
+    "featured": true,
+    "title": {
+      "en": "For a special beginning",
+      "ka": "განსაკუთრებული დასაწყისი"
+    },
+    "description": {
+      "en": "A white bridal gown with a long train.",
+      "ka": "თეთრი საქორწილო კაბა გრძელი შლეიფით."
+    },
+    "alt": {
+      "en": [
+        "Front view of a white bridal gown and its long train",
+        "Rear view of the white bridal gown with the train spread out"
+      ],
+      "ka": [
+        "თეთრი საქორწილო კაბის წინა ხედი გრძელი შლეიფით",
+        "თეთრი საქორწილო კაბის უკანა ხედი გაშლილი შლეიფით"
+      ]
+    }
+  },
+  {
+    "id": "floral-child",
+    "category": "children",
+    "images": [
+      23,
+      25
+    ],
+    "featured": true,
+    "title": {
+      "en": "Little details",
+      "ka": "პატარა დეტალები"
+    },
+    "description": {
+      "en": "A floral children’s dress with puff sleeves.",
+      "ka": "ყვავილებიანი საბავშვო კაბა მოცულობითი სახელოებით."
+    },
+    "alt": {
+      "en": [
+        "Floral children’s dress with puff sleeves hanging on a rail",
+        "Close view of the floral dress sleeve and gathered waist"
+      ],
+      "ka": [
+        "ყვავილებიანი საბავშვო კაბა მოცულობითი სახელოებით საკიდზე",
+        "ყვავილებიანი კაბის სახელოსა და წელის დეტალი"
+      ]
+    }
+  },
+  {
+    "id": "sky-blue",
+    "category": "evening",
+    "images": [
+      10
+    ],
+    "featured": false,
+    "title": {
+      "en": "Something blue",
+      "ka": "ცისფერი განწყობა"
+    },
+    "description": {
+      "en": "An embellished blue dress with a gathered front.",
+      "ka": "ცისფერი კაბა დეკორითა და წინ შეკრული ნაკეცებით."
+    },
+    "alt": {
+      "en": [
+        "Full-length embellished pale blue strapless dress on a mannequin"
+      ],
+      "ka": [
+        "ღია ცისფერი გრძელი უსამხრე კაბა დეკორით მანეკენზე"
+      ]
+    }
+  },
+  {
+    "id": "burgundy-suit",
+    "category": "everyday",
+    "images": [
+      6
+    ],
+    "featured": false,
+    "title": {
+      "en": "In burgundy",
+      "ka": "შინდისფერში"
+    },
+    "description": {
+      "en": "A fitted jacket and trouser set.",
+      "ka": "მომდგარი პიჯაკისა და შარვლის კომპლექტი."
+    },
+    "alt": {
+      "en": [
+        "Woman wearing a burgundy jacket and trousers on an interior staircase"
+      ],
+      "ka": [
+        "შინდისფერი პიჯაკისა და შარვლის კომპლექტი კიბეზე"
+      ]
+    }
+  },
+  {
+    "id": "ivory",
+    "category": "evening",
+    "images": [
+      8
+    ],
+    "featured": false,
+    "title": {
+      "en": "Soft lines",
+      "ka": "რბილი ხაზები"
+    },
+    "description": {
+      "en": "An ivory halter-neck dress with a gathered waist.",
+      "ka": "სპილოსძვლისფერი კაბა კისერთან შეკრული ზედა ნაწილითა და ნაკეცებიანი წელით."
+    },
+    "alt": {
+      "en": [
+        "Ivory halter-neck long dress with a gathered waist on a mannequin"
+      ],
+      "ka": [
+        "გრძელი სპილოსძვლისფერი კაბა ნაკეცებიანი წელით მანეკენზე"
+      ]
+    }
+  },
+  {
+    "id": "navy-child",
+    "category": "children",
+    "images": [
+      20
+    ],
+    "featured": false,
+    "title": {
+      "en": "A small classic",
+      "ka": "პატარა კლასიკა"
+    },
+    "description": {
+      "en": "A navy children’s dress with a cream collar and bow.",
+      "ka": "მუქი ლურჯი საბავშვო კაბა კრემისფერი საყელოთი და ბაფთით."
+    },
+    "alt": {
+      "en": [
+        "Navy children’s dress with a broad cream collar and bow on a hanger"
+      ],
+      "ka": [
+        "მუქი ლურჯი საბავშვო კაბა დიდი კრემისფერი საყელოთი და ბაფთით საკიდზე"
+      ]
+    }
+  },
+  {
+    "id": "emerald",
+    "category": "evening",
+    "images": [
+      1
+    ],
+    "featured": false,
+    "title": {
+      "en": "An emerald entrance",
+      "ka": "ზურმუხტისფერი სილუეტი"
+    },
+    "description": {
+      "en": "A deep green full-length dress with a flowing train.",
+      "ka": "მუქი მწვანე გრძელი კაბა შლეიფით."
+    },
+    "alt": {
+      "en": [
+        "Woman wearing an emerald long dress with a train on a grand staircase"
+      ],
+      "ka": [
+        "ზურმუხტისფერი გრძელი კაბა შლეიფით ფართო კიბეზე"
+      ]
+    }
+  },
+  {
+    "id": "red-child",
+    "category": "children",
+    "images": [
+      22
+    ],
+    "featured": false,
+    "title": {
+      "en": "A little celebration",
+      "ka": "პატარა დღესასწაული"
+    },
+    "description": {
+      "en": "A red children’s dress with shoulder bows.",
+      "ka": "წითელი საბავშვო კაბა მხრებზე ბაფთებით."
+    },
+    "alt": {
+      "en": [
+        "Red sparkly children’s dress with large shoulder bows hanging from a rail"
+      ],
+      "ka": [
+        "წითელი მბზინავი საბავშვო კაბა მხრებზე დიდი ბაფთებით საკიდზე"
+      ]
+    }
+  },
+  {
+    "id": "lime",
+    "category": "evening",
+    "images": [
+      3
+    ],
+    "featured": false,
+    "title": {
+      "en": "A softer shade",
+      "ka": "ნაზი ელფერი"
+    },
+    "description": {
+      "en": "A pale lime dress with an open back.",
+      "ka": "ღია ლაიმისფერი კაბა ღია ზურგით."
+    },
+    "alt": {
+      "en": [
+        "Back view of a pale lime long dress with narrow crossing straps outdoors"
+      ],
+      "ka": [
+        "ღია ლაიმისფერი გრძელი კაბის უკანა ხედი გადაჯვარედინებული წვრილი ბრეტელებით"
+      ]
+    }
+  },
+  {
+    "id": "midnight",
+    "category": "evening",
+    "images": [
+      7
+    ],
+    "featured": false,
+    "title": {
+      "en": "After dusk",
+      "ka": "შებინდებისას"
+    },
+    "description": {
+      "en": "A deep blue long dress, shown seated.",
+      "ka": "მუქი ლურჯი გრძელი კაბა მჯდომარე პოზაში."
+    },
+    "alt": {
+      "en": [
+        "Woman seated by a window wearing a deep blue long dress"
+      ],
+      "ka": [
+        "ქალი მუქი ლურჯი გრძელი კაბით ფანჯარასთან ზის"
+      ]
+    }
+  }
+]

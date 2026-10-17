@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Set siteUrl and refresh this file before publication.
