@@ -133,7 +133,8 @@
     "category": "children",
     "images": [
       23,
-      25
+      25,
+      24
     ],
     "featured": true,
     "title": {
@@ -147,11 +148,13 @@
     "alt": {
       "en": [
         "Floral children’s dress with puff sleeves hanging on a rail",
-        "Close view of the floral dress sleeve and gathered waist"
+        "Close view of the floral dress sleeve and gathered waist",
+        "Rear view of a child wearing the white floral puff-sleeve dress"
       ],
       "ka": [
         "ყვავილებიანი საბავშვო კაბა მოცულობითი სახელოებით საკიდზე",
-        "ყვავილებიანი კაბის სახელოსა და წელის დეტალი"
+        "ყვავილებიანი კაბის სახელოსა და წელის დეტალი",
+        "ბავშვი თეთრი ყვავილებიანი კაბით, უკანა ხედი"
       ]
     }
   },
@@ -207,7 +210,8 @@
     "id": "ivory",
     "category": "evening",
     "images": [
-      8
+      8,
+      11
     ],
     "featured": false,
     "title": {
@@ -220,10 +224,12 @@
     },
     "alt": {
       "en": [
-        "Ivory halter-neck long dress with a gathered waist on a mannequin"
+        "Ivory halter-neck long dress with a gathered waist on a mannequin",
+        "Rear view of the ivory halter-neck dress overlooking Tbilisi at night"
       ],
       "ka": [
-        "გრძელი სპილოსძვლისფერი კაბა ნაკეცებიანი წელით მანეკენზე"
+        "გრძელი სპილოსძვლისფერი კაბა ნაკეცებიანი წელით მანეკენზე",
+        "სპილოსძვლისფერი კაბის უკანა ხედი ღამის თბილისის ფონზე"
       ]
     }
   },
@@ -344,6 +350,192 @@
       ],
       "ka": [
         "ქალი მუქი ლურჯი გრძელი კაბით ფანჯარასთან ზის"
+      ]
+    }
+  },
+  {
+    "id": "evening-pair",
+    "category": "evening",
+    "images": [
+      9
+    ],
+    "featured": false,
+    "title": {
+      "en": "Evening in two tones",
+      "ka": "საღამოს ორი ფერი"
+    },
+    "description": {
+      "en": "Red and black evening dresses shown together.",
+      "ka": "წითელი და შავი საღამოს კაბები ერთ კადრში."
+    },
+    "alt": {
+      "en": [
+        "Two women seated together wearing red and black evening dresses"
+      ],
+      "ka": [
+        "ორი ქალი წითელი და შავი საღამოს კაბებით"
+      ]
+    }
+  },
+  {
+    "id": "grey-children",
+    "category": "children",
+    "images": [
+      21,
+      17,
+      16
+    ],
+    "featured": false,
+    "title": {
+      "en": "Coordinated in grey",
+      "ka": "ნაცრისფერი კომპლექტები"
+    },
+    "description": {
+      "en": "Coordinated children’s occasion outfits in grey and white.",
+      "ka": "ბავშვებისთვის შექმნილი ნაცრისფერი და თეთრი სადღესასწაულო კომპლექტები."
+    },
+    "alt": {
+      "en": [
+        "Two children wearing coordinated grey and white occasion outfits",
+        "Boy seated in a grey waistcoat and trouser set beside a number balloon",
+        "Boy wearing a grey waistcoat and trouser set while holding a number balloon"
+      ],
+      "ka": [
+        "ორი ბავშვი ნაცრისფერ და თეთრ სადღესასწაულო კომპლექტებში",
+        "ბიჭი ნაცრისფერი ჟილეტისა და შარვლის კომპლექტით, ციფრის ფორმის ბუშტთან",
+        "ბიჭი ნაცრისფერი ჟილეტისა და შარვლის კომპლექტით, ციფრის ფორმის ბუშტით"
+      ]
+    }
+  },
+  {
+    "id": "red-bow-child",
+    "category": "children",
+    "images": [
+      18
+    ],
+    "featured": false,
+    "title": {
+      "en": "A red bow",
+      "ka": "წითელი ბაფთა"
+    },
+    "description": {
+      "en": "A red long-sleeve children’s dress finished with a statement bow.",
+      "ka": "წითელი გრძელმკლავიანი საბავშვო კაბა გამორჩეული ბაფთით."
+    },
+    "alt": {
+      "en": [
+        "Red long-sleeve children’s dress with a large shoulder bow on a hanger"
+      ],
+      "ka": [
+        "წითელი გრძელმკლავიანი საბავშვო კაბა დიდი ბაფთით საკიდზე"
+      ]
+    }
+  },
+  {
+    "id": "gold-child",
+    "category": "children",
+    "images": [
+      19
+    ],
+    "featured": false,
+    "title": {
+      "en": "Golden celebration",
+      "ka": "ოქროსფერი დღესასწაული"
+    },
+    "description": {
+      "en": "A full-skirted children’s occasion dress in a golden pattern.",
+      "ka": "ოქროსფერი ორნამენტით გაფორმებული საბავშვო სადღესასწაულო კაბა."
+    },
+    "alt": {
+      "en": [
+        "Child wearing a full-skirted golden patterned dress beside a Christmas tree"
+      ],
+      "ka": [
+        "ბავშვი ოქროსფერი ორნამენტიანი გაშლილი კაბით ნაძვის ხესთან"
+      ]
+    }
+  },
+  {
+    "id": "blue-group",
+    "category": "children",
+    "images": [
+      28,
+      26,
+      30,
+      32
+    ],
+    "featured": false,
+    "title": {
+      "en": "Coordinated in blue",
+      "ka": "ცისფერი ერთიანობა"
+    },
+    "description": {
+      "en": "Matching blue dresses and waistcoat sets created for a group performance.",
+      "ka": "ჯგუფური წარმოდგენისთვის შექმნილი ერთნაირი ცისფერი კაბები და ჟილეტიანი კომპლექტები."
+    },
+    "alt": {
+      "en": [
+        "Group of children performing in matching light blue dresses and coordinated waistcoat sets",
+        "Children dancing in coordinated light blue dresses and blue waistcoat sets",
+        "Rear view of a group wearing matching light blue dresses with bows",
+        "Side view of children performing in coordinated light blue outfits"
+      ],
+      "ka": [
+        "ბავშვების ჯგუფი ერთნაირ ღია ცისფერ კაბებსა და ჟილეტიან კომპლექტებში",
+        "მოცეკვავე ბავშვები შეხამებულ ცისფერ კაბებსა და ჟილეტიან კომპლექტებში",
+        "ბავშვების ჯგუფის უკანა ხედი ერთნაირი ცისფერი კაბებითა და ბაფთებით",
+        "ბავშვების წარმოდგენის გვერდითი ხედი შეხამებული ცისფერი სამოსით"
+      ]
+    }
+  },
+  {
+    "id": "pink-group",
+    "category": "children",
+    "images": [
+      27,
+      29
+    ],
+    "featured": false,
+    "title": {
+      "en": "Soft pink ensemble",
+      "ka": "ნაზი ვარდისფერი კომპლექტები"
+    },
+    "description": {
+      "en": "Coordinated pale pink and white costumes made for a children’s group.",
+      "ka": "ბავშვების ჯგუფისთვის შექმნილი შეხამებული ღია ვარდისფერი და თეთრი კოსტიუმები."
+    },
+    "alt": {
+      "en": [
+        "Children performing together in coordinated pale pink and white costumes",
+        "Wide view of a children’s group in matching pale pink tops and white trousers"
+      ],
+      "ka": [
+        "ბავშვების ჯგუფი შეხამებულ ღია ვარდისფერ და თეთრ კოსტიუმებში",
+        "ბავშვების ჯგუფის საერთო ხედი ერთნაირი ღია ვარდისფერი ზედებითა და თეთრი შარვლებით"
+      ]
+    }
+  },
+  {
+    "id": "turquoise-group",
+    "category": "children",
+    "images": [
+      31
+    ],
+    "featured": false,
+    "title": {
+      "en": "A turquoise ensemble",
+      "ka": "ფირუზისფერი კომპლექტები"
+    },
+    "description": {
+      "en": "Turquoise dresses and waistcoat sets created as a coordinated group order.",
+      "ka": "ჯგუფური შეკვეთისთვის შექმნილი ფირუზისფერი კაბები და ჟილეტიანი კომპლექტები."
+    },
+    "alt": {
+      "en": [
+        "Children dancing in matching turquoise dresses and coordinated waistcoat sets"
+      ],
+      "ka": [
+        "მოცეკვავე ბავშვები ერთნაირ ფირუზისფერ კაბებსა და ჟილეტიან კომპლექტებში"
       ]
     }
   }

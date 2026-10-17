@@ -62,9 +62,19 @@ for image in inventory:
     check(bool(image['description']) and image['opened'], f'Incomplete inventory: {image["path"]}')
 check(len(set(row['sha256'] for row in inventory)) == 34, 'Unexpected exact duplicates')
 projects = json.loads((ROOT/'_studio/data/portfolio.json').read_text())
-check(len(projects) == 14 and sum(p['featured'] for p in projects) == 6, 'Curation counts')
-excluded_minors = {16,17,19,21,24,26,27,28,29,30,31,32}
-check(not excluded_minors.intersection(n for p in projects for n in p['images']), 'Minor portrait selected')
+portfolio_ids = [image_id for project in projects for image_id in project['images']]
+check(len(projects) == 21 and sum(p['featured'] for p in projects) == 6, 'Portfolio project counts')
+check(len(portfolio_ids) == 33, 'Every garment photograph is included')
+check(len(set(portfolio_ids)) == 33, 'A garment photograph appears more than once')
+check(set(portfolio_ids) == set(range(1, 35)) - {13}, 'Portfolio omits a garment photograph or includes the logo')
+check({p['category'] for p in projects} == {'evening', 'everyday', 'children', 'bridal', 'traditional'}, 'Portfolio categories changed')
+for project in projects:
+    check(len(project['images']) == len(project['alt']['en']) == len(project['alt']['ka']), f'Image/alt mismatch: {project["id"]}')
+    for image_id in project['images']:
+        photo = inventory[image_id - 1]
+        check(bool(photo.get('variants')), f'Missing optimized image variants: {image_id}')
+        check(photo['publication_review'].startswith('Approved for portfolio use'), f'Approval status missing: {image_id}')
+check(json.loads((ROOT/'_studio/data/site.json').read_text())['directions'] == 'https://maps.app.goo.gl/drJ2gnc8GKpYNQ599', 'Directions URL')
 check(not (ROOT/'.nojekyll').exists(), '.nojekyll bypasses archive exclusions')
 config = (ROOT/'_config.yml').read_text()
 for name in ['Atelier_Maoni_pics','_studio','tests','PHOTO-SELECTION.md','MISSING-INFORMATION.md']:

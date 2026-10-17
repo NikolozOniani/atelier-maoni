@@ -13,7 +13,7 @@
     "group": "emerald",
     "quality": "Medium clarity; good full silhouette, large architectural background.",
     "usage": "selected",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "emerald-01-480.webp",
@@ -41,7 +41,7 @@
     "group": "navy-coordinates",
     "quality": "Clear outfit; interior mirror and edges distract slightly.",
     "usage": "selected",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "navy-coordinates-02-480.webp",
@@ -74,7 +74,7 @@
     "group": "lime",
     "quality": "Good silhouette and texture; rear view only, passing person at edge.",
     "usage": "selected",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "lime-03-480.webp",
@@ -102,7 +102,7 @@
     "group": "silver",
     "quality": "Strong detail, soft background, good clarity; lower hem outside frame.",
     "usage": "hero",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "silver-04-480.webp",
@@ -135,7 +135,7 @@
     "group": "silver",
     "quality": "Strong matching detail and alternate construction view.",
     "usage": "supporting",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "silver-05-480.webp",
@@ -168,7 +168,7 @@
     "group": "burgundy-suit",
     "quality": "Clear full outfit; warm indoor background.",
     "usage": "selected",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "burgundy-suit-06-480.webp",
@@ -196,7 +196,7 @@
     "group": "midnight",
     "quality": "Moody light and clear upper garment; seated pose hides full silhouette.",
     "usage": "selected",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "midnight-07-480.webp",
@@ -229,7 +229,7 @@
     "group": "ivory",
     "quality": "Clear entire garment on neutral wall; remove only black video bars.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "crop": [
       0,
       246,
@@ -265,10 +265,27 @@
     "opened": true,
     "description": "Two women seated indoors wearing red and black long dresses.",
     "category": "evening",
-    "group": "red-black-pair",
+    "group": "evening-pair",
     "quality": "Low light and pose obscure lower garments; no secure link to other projects.",
-    "usage": "excluded",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "red-black-pair-09-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "red-black-pair-09-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "file": "red-black-pair-09-1133.webp",
+        "width": 1133,
+        "height": 850
+      }
+    ]
   },
   {
     "id": 10,
@@ -284,7 +301,7 @@
     "group": "sky-blue",
     "quality": "Strong craft detail, full silhouette, neutral background; narrow original.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "sky-blue-10-480.webp",
@@ -309,10 +326,27 @@
     "opened": true,
     "description": "Woman in a pale halter-neck dress at a balcony overlooking a city at night.",
     "category": "evening",
-    "group": "ivory-possible",
+    "group": "ivory",
     "quality": "Possibly same garment as 8; low light, back view. Grouping uncertain.",
-    "usage": "excluded",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "ivory-possible-11-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "ivory-possible-11-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "file": "ivory-possible-11-1440.webp",
+        "width": 1440,
+        "height": 1079
+      }
+    ]
   },
   {
     "id": 12,
@@ -328,7 +362,7 @@
     "group": "yellow",
     "quality": "Strong color and full silhouette; narrow original, sharp garment.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "yellow-12-480.webp",
@@ -356,7 +390,7 @@
     "group": "logo",
     "quality": "Existing supplied identity; retain complete artwork and white background.",
     "usage": "logo",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Logo retained for website branding.",
     "variants": [
       {
         "file": "logo-13-96.webp",
@@ -384,7 +418,7 @@
     "group": "bridal",
     "quality": "Full train visible; bright outdoor detail, likely same gown as 15.",
     "usage": "supporting",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "bridal-14-480.webp",
@@ -412,7 +446,7 @@
     "group": "bridal",
     "quality": "Strong full silhouette and visible dress detail; likely same wearer and gown as 14.",
     "usage": "selected",
-    "publication_review": "Owner permission and image rights required; identifiable customers require explicit consent.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "bridal-15-480.webp",
@@ -437,10 +471,27 @@
     "opened": true,
     "description": "Young boy in grey waistcoat and trousers holding a silver numeral balloon.",
     "category": "children",
-    "group": "grey-child",
+    "group": "grey-children",
     "quality": "Clear portrait but balloon partly covers clothes; identifiable minor.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "grey-child-16-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "grey-child-16-960.webp",
+        "width": 960,
+        "height": 1439
+      },
+      {
+        "file": "grey-child-16-1366.webp",
+        "width": 1366,
+        "height": 2048
+      }
+    ]
   },
   {
     "id": 17,
@@ -453,10 +504,27 @@
     "opened": true,
     "description": "Young boy seated in grey waistcoat and trousers beside a numeral balloon.",
     "category": "children",
-    "group": "grey-child",
+    "group": "grey-children",
     "quality": "Same child/outfit as 16; stronger outfit view, identifiable minor.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "grey-child-17-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "grey-child-17-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "file": "grey-child-17-1440.webp",
+        "width": 1440,
+        "height": 1079
+      }
+    ]
   },
   {
     "id": 18,
@@ -469,10 +537,27 @@
     "opened": true,
     "description": "Red long-sleeve short dress with a bow held on a hanger beside the atelier sign.",
     "category": "children",
-    "group": "red-bow",
+    "group": "red-bow-child",
     "quality": "Distinct from 22 (sleeves and plain finish); cluttered background and hand.",
-    "usage": "excluded",
-    "publication_review": "Confirm owner image rights before release."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "red-bow-18-480.webp",
+        "width": 480,
+        "height": 646
+      },
+      {
+        "file": "red-bow-18-960.webp",
+        "width": 960,
+        "height": 1292
+      },
+      {
+        "file": "red-bow-18-1080.webp",
+        "width": 1080,
+        "height": 1454
+      }
+    ]
   },
   {
     "id": 19,
@@ -487,8 +572,20 @@
     "category": "children",
     "group": "gold-child",
     "quality": "Clear garment but busy festive composition; identifiable minor.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "gold-child-19-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "gold-child-19-736.webp",
+        "width": 736,
+        "height": 1104
+      }
+    ]
   },
   {
     "id": 20,
@@ -504,7 +601,7 @@
     "group": "navy-child",
     "quality": "Clean neutral background, entire garment visible; strong safe selection.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "navy-child-20-480.webp",
@@ -534,10 +631,27 @@
     "opened": true,
     "description": "Two children in coordinating grey outfits seated against a pale blue background.",
     "category": "children",
-    "group": "grey-child",
+    "group": "grey-children",
     "quality": "Boy’s outfit related to 16/17; second outfit visible; identifiable minors.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "grey-child-21-480.webp",
+        "width": 480,
+        "height": 394
+      },
+      {
+        "file": "grey-child-21-960.webp",
+        "width": 960,
+        "height": 788
+      },
+      {
+        "file": "grey-child-21-1440.webp",
+        "width": 1440,
+        "height": 1182
+      }
+    ]
   },
   {
     "id": 22,
@@ -553,7 +667,7 @@
     "group": "red-child",
     "quality": "Clear craft and skirt volume; hanger photographed from an angle.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "red-child-22-480.webp",
@@ -586,7 +700,7 @@
     "group": "floral-child",
     "quality": "Full garment clear, some background clutter; use as primary.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "floral-child-23-480.webp",
@@ -618,8 +732,25 @@
     "category": "children",
     "group": "floral-child",
     "quality": "Same print and sleeves as 23/25; identifiable child remains a minor even from rear.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "floral-child-24-480.webp",
+        "width": 480,
+        "height": 641
+      },
+      {
+        "file": "floral-child-24-960.webp",
+        "width": 960,
+        "height": 1283
+      },
+      {
+        "file": "floral-child-24-1085.webp",
+        "width": 1085,
+        "height": 1450
+      }
+    ]
   },
   {
     "id": 25,
@@ -635,7 +766,7 @@
     "group": "floral-child",
     "quality": "Strong craftsmanship detail; same garment/print as 23/24.",
     "usage": "supporting",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "floral-child-25-480.webp",
@@ -665,10 +796,22 @@
     "opened": true,
     "description": "Children dancing in light blue dresses and blue waistcoat sets.",
     "category": "children",
-    "group": "group-blue",
+    "group": "blue-group",
     "quality": "Related event to 28/30/32; many identifiable minors; not separate dress projects.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-blue-26-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "group-blue-26-960.webp",
+        "width": 960,
+        "height": 720
+      }
+    ]
   },
   {
     "id": 27,
@@ -681,10 +824,27 @@
     "opened": true,
     "description": "Group of children in pale pink tops and white bottoms in a decorated room.",
     "category": "children",
-    "group": "group-pink",
+    "group": "pink-group",
     "quality": "Related to 29; distant busy event image, many minors.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-pink-27-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "group-pink-27-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "file": "group-pink-27-1080.webp",
+        "width": 1080,
+        "height": 810
+      }
+    ]
   },
   {
     "id": 28,
@@ -697,10 +857,27 @@
     "opened": true,
     "description": "Group of children dancing in matching light blue dresses.",
     "category": "children",
-    "group": "group-blue",
+    "group": "blue-group",
     "quality": "Near-repetitive same event/outfits as 26/30/32; many minors.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-blue-28-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "group-blue-28-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "file": "group-blue-28-1080.webp",
+        "width": 1080,
+        "height": 810
+      }
+    ]
   },
   {
     "id": 29,
@@ -713,10 +890,22 @@
     "opened": true,
     "description": "Children in pale pink tops and white bottoms performing in the same room.",
     "category": "children",
-    "group": "group-pink",
+    "group": "pink-group",
     "quality": "Near-repetitive companion to 27; many minors, weak garment detail.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-pink-29-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "group-pink-29-960.webp",
+        "width": 960,
+        "height": 720
+      }
+    ]
   },
   {
     "id": 30,
@@ -729,10 +918,22 @@
     "opened": true,
     "description": "Back view of group of children in matching light blue dresses with bows.",
     "category": "children",
-    "group": "group-blue",
+    "group": "blue-group",
     "quality": "Useful reverse view of same group work; many minors, cluttered.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-blue-30-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "group-blue-30-960.webp",
+        "width": 960,
+        "height": 720
+      }
+    ]
   },
   {
     "id": 31,
@@ -745,10 +946,27 @@
     "opened": true,
     "description": "Group of children in turquoise dresses and waistcoat sets at a performance.",
     "category": "children",
-    "group": "group-turquoise",
+    "group": "turquoise-group",
     "quality": "Related event setting but distinct color/outfits; many identifiable minors.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "selected",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-turquoise-31-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "group-turquoise-31-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "file": "group-turquoise-31-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
   },
   {
     "id": 32,
@@ -761,10 +979,27 @@
     "opened": true,
     "description": "Side view of dancing children in matching light blue dresses and waistcoats.",
     "category": "children",
-    "group": "group-blue",
+    "group": "blue-group",
     "quality": "Same event/outfits as 26/28/30; repetitive group photo with minors.",
-    "usage": "excluded",
-    "publication_review": "Do not publish without parent/guardian consent and image-rights confirmation."
+    "usage": "supporting",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
+    "variants": [
+      {
+        "file": "group-blue-32-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "group-blue-32-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "file": "group-blue-32-1080.webp",
+        "width": 1080,
+        "height": 810
+      }
+    ]
   },
   {
     "id": 33,
@@ -780,7 +1015,7 @@
     "group": "traditional",
     "quality": "Clear front detailing; narrow photo with existing phone watermark retained.",
     "usage": "selected",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "traditional-33-480.webp",
@@ -808,7 +1043,7 @@
     "group": "traditional",
     "quality": "Alternate styling view; clear silhouette, existing watermark retained.",
     "usage": "supporting",
-    "publication_review": "Confirm owner image rights before release.",
+    "publication_review": "Approved for portfolio use by the owner; parent or guardian consent confirmed where applicable.",
     "variants": [
       {
         "file": "traditional-34-480.webp",

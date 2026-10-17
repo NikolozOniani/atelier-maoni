@@ -109,7 +109,7 @@ function check(condition, message) {
         if (section === "contact/") {
           check(
             (await page
-              .locator('a[href="https://share.google/f6iwNu64FvXnETX4t"]')
+              .locator('a[href="https://maps.app.goo.gl/drJ2gnc8GKpYNQ599"]')
               .count()) === 1,
             "Exact supplied map destination",
           );
@@ -131,13 +131,34 @@ function check(condition, message) {
       const page = await context.newPage();
       await page.goto(`${base}/${lang}/work/`);
       check(
-        (await page.locator(".project-card:visible").count()) === 14,
+        (await page.locator(".project-card:visible").count()) === 21,
         "All projects initially visible",
       );
+      check(
+        (await page.locator(".project-gallery a").count()) === 33,
+        "All 33 garment photographs are accessible in the portfolio",
+      );
+      const galleryImages = await page
+        .locator(".project-gallery a")
+        .evaluateAll(async (links) =>
+          Promise.all(
+            links.map(async (link) => {
+              const image = new Image();
+              image.src = link.href;
+              await image.decode();
+              return [image.naturalWidth, image.naturalHeight];
+            }),
+          ),
+        );
+      check(
+        galleryImages.length === 33 &&
+          galleryImages.every(([width, height]) => width > 0 && height > 0),
+        "All 33 portfolio photographs decode",
+      );
       for (const [category, count] of [
-        ["evening", 7],
+        ["evening", 8],
         ["everyday", 2],
-        ["children", 3],
+        ["children", 9],
         ["bridal", 1],
         ["traditional", 1],
       ]) {
@@ -190,16 +211,12 @@ function check(condition, message) {
         (await page.locator(".viewer-counter").textContent()) === "2 / 2",
         "Previous wraps within garment",
       );
-      await page
-        .locator(".viewer-image")
-        .dispatchEvent("touchstart", {
-          changedTouches: [{ identifier: 1, clientX: 200, clientY: 100 }],
-        });
-      await page
-        .locator(".viewer-image")
-        .dispatchEvent("touchend", {
-          changedTouches: [{ identifier: 1, clientX: 70, clientY: 100 }],
-        });
+      await page.locator(".viewer-image").dispatchEvent("touchstart", {
+        changedTouches: [{ identifier: 1, clientX: 200, clientY: 100 }],
+      });
+      await page.locator(".viewer-image").dispatchEvent("touchend", {
+        changedTouches: [{ identifier: 1, clientX: 70, clientY: 100 }],
+      });
       check(
         (await page.locator(".viewer-counter").textContent()) === "1 / 2",
         "Touch gesture changes photo",
@@ -240,6 +257,28 @@ function check(condition, message) {
         !(await page.locator(".viewer").evaluate((dialog) => dialog.open)),
         "Close button works",
       );
+      await page.locator("#blue-group .project-image").click();
+      check(
+        (await page.locator(".viewer-counter").textContent()) === "1 / 4",
+        "Coordinated blue group opens as a four-image project",
+      );
+      check(
+        (await page
+          .locator(".viewer-image")
+          .evaluate((image) => getComputedStyle(image).objectFit)) ===
+          "contain",
+        "Group photograph preserves its full proportions",
+      );
+      for (let imageIndex = 2; imageIndex <= 4; imageIndex++) {
+        await page.locator("[data-next]").click();
+        await page.locator(".viewer-image").evaluate((image) => image.decode());
+        check(
+          (await page.locator(".viewer-counter").textContent()) ===
+            `${imageIndex} / 4`,
+          `Coordinated blue group image ${imageIndex} is accessible`,
+        );
+      }
+      await page.locator(".viewer-close").click();
       await page.close();
     }
     const noJS = await browser.newContext({
@@ -250,8 +289,12 @@ function check(condition, message) {
       const page = await noJS.newPage();
       await page.goto(`${base}/${lang}/work/`);
       check(
-        (await page.locator(".project-card").count()) === 14,
+        (await page.locator(".project-card").count()) === 21,
         "Gallery exists without JavaScript",
+      );
+      check(
+        (await page.locator(".project-gallery a").count()) === 33,
+        "All 33 photographs have no-JavaScript links",
       );
       check(
         await page.locator(".project-gallery a").first().isVisible(),

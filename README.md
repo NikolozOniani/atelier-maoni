@@ -8,7 +8,7 @@ Run `python3 -m http.server 8000` from this folder and open the local server in 
 
 ## Before making it public
 
-Read **MISSING-INFORMATION.md** and **PHOTO-SELECTION.md**. Confirm permission for the selected photographs, especially identifiable customers. No identifiable children are included in the website assets.
+Read **MISSING-INFORMATION.md** and **PHOTO-SELECTION.md**. All 33 garment photographs are included in the portfolio. The owner has confirmed permission for their use, including the relevant parent or guardian consent for photographs of children.
 
 The original `Atelier_Maoni_pics` archive and `_studio` review materials are retained. `_config.yml` excludes them, the tests and internal documentation from the standard GitHub Pages branch deployment. **Do not add a `.nojekyll` file or use a hosting process that copies the whole repository**: either would bypass this protection. These exclusions do not hide files in a public GitHub repository. Existing source photographs remain visible to anyone who can read that repository. No source file was deleted or made private.
 
@@ -17,7 +17,7 @@ The original `Atelier_Maoni_pics` archive and `_studio` review materials are ret
 1. Review the finished commit and merge it into `main` on the connected GitHub repository.
 2. Decide the real website address. In `_studio/data/site.json`, set `siteUrl` to the complete HTTPS site root, including `/atelier-maoni` if using a GitHub project site, without a trailing slash. Leave it blank until the address is confirmed.
 3. Ask Codex to run `python3 _studio/render.py` and commit the refreshed HTML, `sitemap.xml` and `robots.txt`. This completes absolute canonicals, social preview image URLs and sitemap entries. The current empty sitemap deliberately contains no invented production URL.
-4. After photo permission and privacy review, open **Settings → Pages → Deploy from a branch → main → /(root)**, then save. This is the owner's publication step; it has not been enabled by this task.
+4. Open **Settings → Pages → Deploy from a branch → main → /(root)**, then save if branch deployment is not already active.
 5. After the Pages deployment completes, confirm that all six pages and images work. Check that `/Atelier_Maoni_pics/112n.jpg`, `/_studio/review/index.html` and `/PHOTO-SELECTION.md` return 404 on the published site. Stop release if they do not. The local development server intentionally does not apply Jekyll exclusions.
 
 ## Change business details
@@ -32,9 +32,9 @@ English and Georgian text lives in `_studio/data/translations.json`. Project tit
 
 Ask Codex to:
 
-1. Keep the new original in the source archive. Confirm image rights and any customer or guardian permission.
+1. Keep the new original in the source archive and confirm the necessary image rights or customer/guardian permission.
 2. Visually review the actual image, group it with its existing garment if appropriate, and record it in `_studio/data/photo-inventory.json` and PHOTO-SELECTION.md.
-3. Create metadata-free, orientation-correct WebP copies at suitable widths under `assets/images`. Preserve natural colors and the full garment; do not enlarge small originals. Update the inventory's `variants` with the real sizes.
+3. Run `python3 _studio/prepare_images.py` to create metadata-free, orientation-correct WebP copies at suitable widths under `assets/images`. The script preserves image proportions and does not enlarge small originals.
 4. Add or update its project in `_studio/data/portfolio.json`, with Georgian and English titles, descriptions and alt text. Move a project up or down in that list to change the gallery order. Set `featured` to `true` for the six homepage projects.
 5. Run `python3 _studio/render.py`, check both languages and commit the changed files. The helper uses only Python's standard library; image optimization is a separate editing task. Hosting simply serves the committed files.
 
